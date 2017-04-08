@@ -1,0 +1,38 @@
+.kk-metabox {
+	position: relative;
+	width: 100%;
+	padding: 1px 0px;
+	display: block;
+
+}
+
+._post_link,
+._post_quote, 
+._post_quote_source,
+._post_video,
+._grid_type,
+._full_style, 
+._scale_mode,
+._bg_video,
+._bg_image_fallback,
+._bg_image, 
+._custom_bg_repeat, 
+._custom_bg_position, 
+._custom_bg_size,
+._near_by,
+#kk-map-meta,
+#new-meta-boxes-14,
+#new-meta-boxes-12,
+#new-meta-boxes-3,
+#new-meta-boxes-6,
+#new-meta-boxes-15, 
+#kk-meta-box-portfolio-style,
+#new-meta-boxes-16, 
+#kk-meta-box-album-style,
+#new-meta-boxes-8 {
+	display: none;
+}
+
+#kk-page-title-meta .rwmb-input {
+	margin-top: 20px;
+}

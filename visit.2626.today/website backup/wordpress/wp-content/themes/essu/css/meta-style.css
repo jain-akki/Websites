@@ -1,0 +1,30 @@
+/*
+
+Styles for meta boxes
+Essu theme by Kotofey
+
+*/
+
+.rwmb-label {
+	margin: 1em 0;
+}
+
+.rwmb-input {
+	margin: 1em 0;
+}
+
+.rwmb-label label {
+	font-weight: 600;
+}
+
+.rwmb-field.projimg_wrapper,
+#kktfwp-homepage-settings,
+.rwmb-field.kktfwp-envira-wrapper,
+.kktfwp-filter-wrapper, 
+.kktfwp-columns-wrapper, 
+.kktfwp-gaps-wrapper,
+.kktfwp-video-wrapper,
+.kktfwp-visibility-wrapper,
+.kktfwp-img-layout {
+	display: none;
+}
